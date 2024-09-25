@@ -5,5 +5,6 @@
 2. JT Harvey, *Applied Ergonomics*, 2002
 3. DW Ziegler et al., 2005
 
-![Correlation Plot](correlation_plot.png)
+![Correlation Plot](correlationplot.png)
 
+There is a positive exponential relationship between PhD graduates and beer consumption. There are likely external factors not shown in the data that are causing the apparent relationship. 
